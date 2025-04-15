@@ -1,5 +1,3 @@
- 🧠 `README.md`
-
 ```markdown
 # 📘 Vocabulary Trainer
 
@@ -88,12 +86,6 @@ Pull requests are welcome! If you have ideas for cool new exercise types (like f
 ## 📄 License
 
 MIT — free to use and modify.
-
----
-
-## 💡 Inspiration
-
-This project was inspired by Duolingo's fun learning mechanics — now adapted for your custom vocab lists.
 
 ---
 
